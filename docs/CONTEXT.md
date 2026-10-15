@@ -8,7 +8,7 @@
 | README.md | готов | v0.1.0, по шаблону readme-template |
 | AGENTS.md | готов | per-project инструкции |
 | docs/COLLECTION.md | готов | все 10 репозиториев, ссылки проверены, 2 битые исправлены |
-| Remote на GitHub | pending | создать через `gh repo create`, после подтверждения пользователя |
+| Remote на GitHub | готов | https://github.com/AlexanderKuzikov/Claude-Beauty-Salon, main отслеживает origin/main |
 
 ## Open-проблемы
 | # | Priority | Описание |
